@@ -6,7 +6,12 @@
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   ~ Top left or right corner ribbon with red or green background.
   ~   Write the CSS to add a ribbon to the upper-right page corner using the
-  ~   <div class="ribbon right green"> element in the practice template.
+  ~   <div class= "ribbon-box right">
+  ~         <div class="ribbon green">
+  ~             <em>Cornor Ribbon</em>
+  ~         </div>
+  ~    </div> 
+  ~ construct in the practice template.
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 */
 
